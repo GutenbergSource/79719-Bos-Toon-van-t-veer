@@ -1,0 +1,29 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/back.jpg" filesize="150352" filedate="2026-10-02 19:19:55" width="977px" height="1440px"/>
+<image path="images/front.jpg" filesize="300149" filedate="2026-09-29 20:24:30" width="1015px" height="1440px"/>
+<image path="images/frontispiece.jpg" filesize="530709" filedate="2026-10-02 19:23:06" width="1039px" height="1423px"/>
+<image path="images/p008.jpg" filesize="518485" filedate="2026-10-02 19:23:06" width="1052px" height="1440px"/>
+<image path="images/p076.jpg" filesize="527796" filedate="2026-10-02 19:23:07" width="1440px" height="1054px"/>
+<image path="images/p208.jpg" filesize="539038" filedate="2026-10-02 19:23:08" width="1049px" height="1440px"/>
+<image path="images/qr79719.png" filesize="275" filedate="2026-10-04 18:58:17" width="248px" height="248px"/>
+<image path="images/spine.jpg" filesize="55837" filedate="2026-10-02 19:19:57" width="217px" height="1440px"/>
+<image path="images/titlepage.png" filesize="22367" filedate="2026-10-02 19:24:01" width="877px" height="1440px"/>
+<image path="images@1/back.jpg" filesize="19415" filedate="2026-10-02 19:19:47" width="489px" height="720px"/>
+<image path="images@1/front.jpg" filesize="77800" filedate="2026-10-02 19:19:48" width="508px" height="720px"/>
+<image path="images@1/frontispiece.jpg" filesize="97969" filedate="2026-10-02 19:22:48" width="520px" height="711px"/>
+<image path="images@1/p008.jpg" filesize="91482" filedate="2026-10-02 19:22:48" width="526px" height="720px"/>
+<image path="images@1/p076.jpg" filesize="87549" filedate="2026-10-02 19:22:48" width="720px" height="527px"/>
+<image path="images@1/p208.jpg" filesize="80022" filedate="2026-10-02 19:22:49" width="524px" height="720px"/>
+<image path="images@1/qr79719.png" filesize="268" filedate="2026-10-04 18:58:17" width="124px" height="124px"/>
+<image path="images@1/spine.jpg" filesize="14201" filedate="2026-10-02 19:19:49" width="108px" height="720px"/>
+<image path="images@1/titlepage.png" filesize="7976" filedate="2026-10-02 19:24:17" width="439px" height="720px"/>
+<image path="images@2/back.jpg" filesize="150352" filedate="2026-10-02 19:19:55" width="977px" height="1440px"/>
+<image path="images@2/front.jpg" filesize="300149" filedate="2026-09-29 20:24:30" width="1015px" height="1440px"/>
+<image path="images@2/frontispiece.jpg" filesize="530709" filedate="2026-10-02 19:23:06" width="1039px" height="1423px"/>
+<image path="images@2/p008.jpg" filesize="518485" filedate="2026-10-02 19:23:06" width="1052px" height="1440px"/>
+<image path="images@2/p076.jpg" filesize="527796" filedate="2026-10-02 19:23:07" width="1440px" height="1054px"/>
+<image path="images@2/p208.jpg" filesize="539038" filedate="2026-10-02 19:23:08" width="1049px" height="1440px"/>
+<image path="images@2/qr79719.png" filesize="275" filedate="2026-10-04 18:58:18" width="248px" height="248px"/>
+<image path="images@2/spine.jpg" filesize="55837" filedate="2026-10-02 19:19:57" width="217px" height="1440px"/>
+<image path="images@2/titlepage.png" filesize="22367" filedate="2026-10-02 19:24:01" width="877px" height="1440px"/>
+</images>
